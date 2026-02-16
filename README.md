@@ -47,6 +47,10 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Domains](https://img.shields.io/badge/Domains-4285F4?logo=google-domains&logoColor=white)
 
+### 💳 Payments & Integrations
+![PayMaya](https://img.shields.io/badge/PayMaya-00AEEF?logo=paymaya&logoColor=white)
+![PayMongo](https://img.shields.io/badge/PayMongo-6B46C1)
+
 ## 🧩 Projects & Systems
 
 ### 📦 Booking & Reservation Systems
