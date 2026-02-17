@@ -197,9 +197,10 @@ Decentralized transaction handling and tokenized systems.
 
 ---
 
-### **Jan 2024 | Personal Projects**
+### **Jan 2024 | School Projects**
 - **POS and Inventory System** - React + Firebase Realtime Database
-- **Population Management System** - Laravel + React (highly dynamic, complex filtering)
+- **Population Management System** - Laravel + React 
+  - highly dynamic charts, complex filtering, highly configurable user preferences, role based controls with configurable different/multiple departments and 4 user level
 
 ---
 
