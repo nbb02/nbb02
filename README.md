@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:11161D,100:0B1220&height=210&section=header&text=Nathaniel%20Berres&fontSize=52&fontColor=F4F0E8&fontAlignY=36&desc=Full-stack%20software%20engineer&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Nathaniel Berres" />
-
 <a href="https://nbb02.github.io"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=700&lines=Multi-tenant+platforms;Realtime+systems+%26+dispatch;Laravel+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js;Observability+that+proves+it+works" alt="What I build" /></a>
 
 <p align="center">
-  <a href="https://nbb02.github.io"><img src="https://img.shields.io/badge/Portfolio-nbb02.github.io-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/nathaniel-berres-396397147"><img src="https://img.shields.io/badge/LinkedIn-nathaniel--berres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/nbb02"><img src="https://img.shields.io/badge/GitHub-nbb02-11161D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nbb02&label=Profile%20views&color=0F766E&style=for-the-badge" alt="Profile views" />
+  <a href="https://nbb02.github.io" title="Portfolio"><img src="https://api.iconify.design/ph/globe.svg?color=%230E7490" width="28" alt="Portfolio" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nathaniel-berres-396397147" title="LinkedIn"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%230E7490" width="28" alt="LinkedIn" /></a>
 </p>
 
 </div>
@@ -16,6 +13,52 @@
 I build systems that have to hold up under real load — multi-tenant platforms,
 realtime dispatch, and the monitoring that proves they work. Currently shipping
 full-stack features on an enterprise operations platform.
+
+## 🚀 Selected work
+
+<table>
+  <tr>
+    <td width="6%" align="center"><img src="https://api.iconify.design/ph/buildings.svg?color=%230E7490" width="20" alt="" /></td>
+    <td width="26%"><strong><a href="https://nbb02.github.io/#/projects/client-portal">Client Portal Platform</a></strong><br /><sub>2026 – now</sub></td>
+    <td width="40%"><sub>CRM and project delivery in one tenant-scoped portal — isolated add-on modules, policy-based RBAC, audit trails.</sub></td>
+    <td width="28%"><sub>Laravel · Inertia · React · TypeScript</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://api.iconify.design/ph/truck.svg?color=%230E7490" width="20" alt="" /></td>
+    <td><strong><a href="https://nbb02.github.io/#/projects/logistics">Logistics &amp; Realtime Booking</a></strong><br /><sub>2025 – 26</sub></td>
+    <td><sub>Live location tracking, geolocation-aware dispatch, and rider–customer bidding over WebSockets with Redis Geo.</sub></td>
+    <td><sub>Node.js · Express · MySQL · Redis · Google Maps</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://api.iconify.design/ph/chart-bar.svg?color=%230E7490" width="20" alt="" /></td>
+    <td><strong><a href="https://nbb02.github.io/#/projects/vitech">ViTech Analytics</a></strong><br /><sub>capstone</sub></td>
+    <td><sub>Population management and analytics with dashboards, QR check-in, role-based access, and exportable reports.</sub></td>
+    <td><sub>Laravel · React</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://api.iconify.design/ph/hard-drives.svg?color=%230E7490" width="20" alt="" /></td>
+    <td><strong><a href="https://nbb02.github.io/#/projects/load-balancer-monitoring">Load Balancer + Observability</a></strong><br /><sub>lab</sub></td>
+    <td><sub>NGINX balancing, JWT-protected APIs, Socket.IO messaging, and a full metrics and log pipeline — all in containers.</sub></td>
+    <td><sub>NGINX · Docker · Prometheus · Grafana · Loki</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://api.iconify.design/ph/target.svg?color=%230E7490" width="20" alt="" /></td>
+    <td><strong><a href="https://nbb02.github.io/#/projects/huntxp">HuntXP</a></strong><br /><sub>personal</sub></td>
+    <td><sub>Gamified job-hunting workbench with an application pipeline, XP and levels, and resume coaching that runs in the browser.</sub></td>
+    <td><sub>Next.js · TypeScript · WebLLM · Llama 3.2</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://api.iconify.design/ph/wallet.svg?color=%230E7490" width="20" alt="" /></td>
+    <td><strong><a href="https://nbb02.github.io/#/projects/finance">Finance PWA</a></strong><br /><sub>personal</sub></td>
+    <td><sub>A personal finance app whose assistant can act on the same accounts, ledger, budgets, and bills as the UI.</sub></td>
+    <td><sub>React · TypeScript · AI tooling</sub></td>
+  </tr>
+</table>
+
+<div align="center">
+  <br />
+  <a href="https://nbb02.github.io/#/projects"><strong>All case studies with screenshots →</strong></a>
+</div>
 
 ## 🧭 Right now
 
@@ -26,7 +69,7 @@ full-stack features on an enterprise operations platform.
   </tr>
   <tr>
     <td><strong>Building</strong></td>
-    <td>CRM, project delivery, embedded forms, and document generation in a multi-tenant portal</td>
+    <td>CRM and project delivery inside a multi-tenant portal</td>
   </tr>
   <tr>
     <td><strong>Focus</strong></td>
@@ -45,63 +88,6 @@ full-stack features on an enterprise operations platform.
     <td>BS Information Technology, <strong>Magna Cum Laude</strong> · July 2025</td>
   </tr>
 </table>
-
-## 🚀 Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://nbb02.github.io/#/projects/client-portal"><img src="assets/projects/client-portal.webp" width="100%" alt="Client Portal Platform" /></a>
-      <br /><br />
-      <strong>Client Portal Platform</strong> <code>2026 – now</code><br />
-      <sub>CRM, project delivery, forms, and documents in one tenant-scoped portal — isolated add-on modules, policy-based RBAC, audit trails.</sub><br />
-      <sub><strong>Laravel · Inertia · React · TypeScript</strong></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://nbb02.github.io/#/projects/logistics"><img src="assets/projects/logistics.webp" width="100%" alt="Logistics and realtime booking" /></a>
-      <br /><br />
-      <strong>Logistics &amp; Realtime Booking</strong> <code>2025 – 26</code><br />
-      <sub>Live location tracking, geolocation-aware dispatch, and rider–customer bidding over WebSockets with Redis Geo.</sub><br />
-      <sub><strong>Node.js · Express · MySQL · Redis · Google Maps</strong></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://nbb02.github.io/#/projects/vitech"><img src="assets/projects/vitech.webp" width="100%" alt="ViTech Analytics dashboard" /></a>
-      <br /><br />
-      <strong>ViTech Analytics</strong> <code>capstone</code><br />
-      <sub>Population management and analytics with dashboards, QR check-in, role-based access, and exportable reports.</sub><br />
-      <sub><strong>Laravel · React</strong></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://nbb02.github.io/#/projects/load-balancer-monitoring"><img src="assets/projects/load-balancer.webp" width="100%" alt="Load balancer visualizer" /></a>
-      <br /><br />
-      <strong>Load Balancer + Observability</strong> <code>lab</code><br />
-      <sub>NGINX balancing, JWT-protected APIs, Socket.IO messaging, and a full metrics and log pipeline — all in containers.</sub><br />
-      <sub><strong>NGINX · Docker · Prometheus · Grafana · Loki</strong></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://nbb02.github.io/#/projects/huntxp"><img src="assets/projects/huntxp.webp" width="100%" alt="HuntXP homepage" /></a>
-      <br /><br />
-      <strong>HuntXP</strong> <code>personal</code><br />
-      <sub>Gamified job-hunting workbench with an application pipeline, XP and levels, and resume coaching that runs in the browser.</sub><br />
-      <sub><strong>Next.js · TypeScript · WebLLM · Llama 3.2</strong></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://nbb02.github.io/#/projects/finance"><img src="assets/projects/finance.webp" width="100%" alt="Finance app AI assistant" /></a>
-      <br /><br />
-      <strong>Finance PWA</strong> <code>personal</code><br />
-      <sub>A personal finance app whose assistant can act on the same accounts, ledger, budgets, and bills as the UI.</sub><br />
-      <sub><strong>React · TypeScript · AI tooling</strong></sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <a href="https://nbb02.github.io/#/projects"><strong>All case studies with screenshots →</strong></a>
-</div>
 
 ## 🛠️ Stack
 
@@ -131,6 +117,8 @@ full-stack features on an enterprise operations platform.
 <br /><br />
 
 <sub><strong>AWS</strong> EC2 · RDS · ElastiCache · S3 · CloudFront · CloudWatch · Lightsail &nbsp;|&nbsp; <strong>Infra</strong> Docker · NGINX · Prometheus · Grafana · Loki · Cloudflare</sub>
+<br />
+<sub><strong>Also</strong> Google Places · Distance Matrix · Geocoding · Cron · Email / SMS / WhatsApp notifications · GCP · DigitalOcean · Chart.js · MUI</sub>
 
 </div>
 
@@ -158,6 +146,17 @@ full-stack features on an enterprise operations platform.
     <td><sub>Node.js and Express APIs, MySQL schemas, cPanel/AWS deployments</sub></td>
   </tr>
 </table>
+
+## 🌱 How I got here
+
+| When | What |
+| --- | --- |
+| **Aug 2022** | Started with HTML — a friend suggested it, I was bored and had nothing to do. Then CSS → JavaScript → SCSS → React. |
+| **Dec 2023** | Learned Next.js. |
+| **2024** | School builds: POS & Inventory (React + Firebase Realtime DB) and a population-management system with dynamic charts, complex filtering, and four user levels (Laravel + React). |
+| **2025** | Internship → junior back-end developer, freelance client work on the side, and graduation with Magna Cum Laude. |
+| **Sep 2025** | Software Engineer on the logistics platform — realtime dispatch, AWS infrastructure, observability. |
+| **May 2026** | Full-Stack Software Developer on a multi-tenant enterprise portal. |
 
 ## 📦 Earlier systems
 
@@ -190,19 +189,6 @@ Freelance, internship, and school builds, grouped by the problem they solved.
   </tr>
 </table>
 
-## 📊 GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nbb02&show_icons=true&hide_rank=true&hide=issues&include_all_commits=true&theme=github_dark&bg_color=0D1117&border_color=1F2937&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=nbb02&hide_border=false&background=0D1117&border=1F2937&stroke=1F2937&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=94A3B8" alt="Contribution streak" />
-
-<br /><br />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nbb02&bg_color=0D1117&color=2DD4BF&line=0F766E&point=F4F0E8&area=true&area_color=0F766E&hide_border=false&border_color=1F2937&custom_title=Contribution%20graph" alt="Contribution graph" />
-
-</div>
-
 ## 🤝 Let's connect
 
 <div align="center">
@@ -210,11 +196,9 @@ Freelance, internship, and school builds, grouped by the problem they solved.
 Open to conversations about backend architecture, realtime systems, and developer tooling.
 
 <p align="center">
-  <a href="https://nbb02.github.io"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/nathaniel-berres-396397147"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/nbb02"><img src="https://img.shields.io/badge/GitHub-11161D?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://nbb02.github.io" title="Portfolio"><img src="https://api.iconify.design/ph/globe.svg?color=%230E7490" width="24" alt="Portfolio" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nathaniel-berres-396397147" title="LinkedIn"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%230E7490" width="24" alt="LinkedIn" /></a>
 </p>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:11161D,100:0F766E&height=120&section=footer" width="100%" alt="" />
